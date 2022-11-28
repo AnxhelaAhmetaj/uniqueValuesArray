@@ -1,0 +1,8 @@
+{
+    "name" : "uniqueValuesArray",
+    "main" : "index.js",
+    "type" : "module",
+    "scripts" : {
+        "dev" : "node index.js"
+    }
+}
