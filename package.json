@@ -1,5 +1,5 @@
 {
-    "name" : "uniqueValuesArray",
+    "name" : "unique",
     "main" : "index.js",
     "type" : "module",
     "scripts" : {
