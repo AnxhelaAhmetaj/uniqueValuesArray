@@ -4,8 +4,8 @@ async function createArray(content) {
     const data = content.split('\n');
     const uniqueValues = data.filter((value, index, array) => array.indexOf(value) === index);
     
-    await fsp.writeFile('result.txt', uniqueValues);
-   // console.log(uniqueValues);
+    // await fsp.writeFile('result.txt', uniqueValues);
+   console.log(uniqueValues);
 }
 
  try {
